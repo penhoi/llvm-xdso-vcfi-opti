@@ -1,0 +1,7 @@
+.ccls-cache
+.vscode
+hashmap
+tests
+lib/hash.o
+lib/hashmap.o
+src/main.o

@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "string_view": "cpp",
+        "functional": "cpp"
+    }
+}

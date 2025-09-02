@@ -1,0 +1,11 @@
+M       clang/lib/CodeGen/CGClass.cpp
+M       clang/lib/CodeGen/CGExpr.cpp
+M       clang/lib/CodeGen/CodeGenFunction.h
+M       clang/lib/Driver/ToolChains/CommonArgs.cpp
+M       compiler-rt/cmake/config-ix.cmake
+M       compiler-rt/lib/CMakeLists.txt
+M       compiler-rt/lib/cfi/cfi.cpp
+A       compiler-rt/lib/xvcfiopt/CMakeLists.txt
+A       compiler-rt/lib/xvcfiopt/cache_init.inc
+A       compiler-rt/lib/xvcfiopt/cfi_xdso_cache.cpp
+A       compiler-rt/lib/xvcfiopt/generate_cache_init.py

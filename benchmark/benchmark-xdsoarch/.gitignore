@@ -1,0 +1,5 @@
+*.so
+main
+log.txt
+output.jpg
+.vscode/
