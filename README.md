@@ -47,6 +47,18 @@ To build and use the artifacts in this repository, you will need a compatible bu
 
 Instructions for compiling and running the benchmarks and correctness tests are provided in the respective `/benchmarks` and `/prototypes` directories. Please refer to the `README.md` file within each directory for detailed steps.
 
+
+
+## Download the Virtual Machine Image
+
+This virtual machine comes pre-installed with a customized CLANG/LLVM compiler. For comparison purposes, the original version of the compiler is also included.
+
+You can download the VM using the following link:
+[Download Link](https://pan.baidu.com/s/1iWjcEQzSghlW2euxDllaiQ)
+Extraction Code: qur3
+
+
+
 ## Contact
 
 For any questions, issues with the source code, or discussions about the paper, please feel free to reach out.
